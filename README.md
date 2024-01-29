@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! Je cherche un contrat d'alternance en développement d'application, ciblé sur le langage Java.<br><br>Mon objectif est de continuer à apprendre et à progresser dans ce domaine. Je cherche à mettre en pratique mes connaissances tout en apportant de la valeur à mon entreprise. <br><br>Je suis réactif, curieux, et motivé. Si vous êtes intéressé par mon profil d'alternant, n'hésitez pas à me contacter sur Linkedin
+Bienvenue sur mon GitHub ! <br><br>Je cherche un contrat d'alternance en développement d'application, ciblé sur le langage Java.<br>Mon objectif est de continuer à apprendre et à progresser dans ce domaine. Je cherche à mettre en pratique mes connaissances tout en apportant de la valeur à mon entreprise. <br><br>Je suis réactif, curieux, et motivé. Si vous êtes intéressé par mon profil d'alternant, n'hésitez pas à me contacter sur Linkedin
 
 
 ## 🌐 Socials:
