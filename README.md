@@ -1,5 +1,5 @@
 # 👋 About Me:
-Bienvenue sur mon GitHub ! <br><br>Je cherche un contrat d'alternance en développement d'application, particulièrement en Java.<br>Mon objectif est de continuer à apprendre et à progresser dans ce domaine. Je cherche à mettre en pratique mes connaissances tout en apportant de la valeur à mon entreprise. <br><br>Je suis réactif, curieux, et très motivé. Si vous êtes intéressé par mon profil d'alternant, n'hésitez pas à me contacter : <br><br>  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gdepuget) <br><br>
+Bienvenue sur mon GitHub ! <br><br>Je cherche un contrat d'alternance en développement d'application ciblé sur le langage Java, en Île-de-France. A démarrer de suite ou en septembre 2024.<br>Mon objectif est de continuer à apprendre et à progresser dans ce domaine. Je cherche à mettre en pratique mes connaissances tout en apportant de la valeur à mon entreprise. <br><br>Je suis réactif, curieux, et très motivé. Si vous êtes intéressé par mon profil, n'hésitez pas à me contacter : <br><br>  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gdepuget) <br><br>
 
 
 ## 💻 Tech Stack:
