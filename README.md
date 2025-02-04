@@ -1,5 +1,5 @@
 # 👋 About Me:
-Welcome to my GitHub ! <br><br>I am a Java and Python developer based in Île-de-France. Passionate about application development, I am always looking to learn and improve.<br>If you are interested in collaborating, please feel free to contact me : <br><br>  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gdepuget) <br><br>
+Welcome to my GitHub ! <br><br>I am a Java developer based in Île-de-France. Passionate about application development, I am always looking to learn and improve.<br>If you are interested in collaborating, please feel free to contact me : <br><br>  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gdepuget) <br><br>
 
 
 ## 💻 Tech Stack:
