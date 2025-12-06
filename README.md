@@ -1,6 +1,6 @@
 # 👋 Bienvenue sur mon GitHub :
 ## Développeur back-end Java / Spring Boot en Île-de-France 
-Je me passionne pour la conception fullstack de web apps. Je me forme en continu, et m'intéresse de près à l'IA, au Devops, et à l'actu Tech.<br>Un projet ? Une opportunité ? Contactez-moi : <br><br>  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gdepuget) guillaumedepuget@gmail.com<br><br>
+Je suis passionné par la conception fullstack de web apps ! Je me forme en continu, et m'intéresse de près à l'IA, au Devops, et à l'actu Tech.<br>Un projet ? Une opportunité ? Je serai ravi d'échanger avec vous : <br><br>  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gdepuget) guillaumedepuget@gmail.com<br><br>
 
 
 ## 💻 Stack Technique
