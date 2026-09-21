@@ -3,7 +3,7 @@
 Après 6 ans en data et finance, mon fort attrait pour la technicité et la Tech m’a inexorablement amené vers la programmation. Je suis passionné depuis plus de 2 ans par la conception fullstack de web apps, et par tout l'écosystème des Systèmes d'Information. 
 <br>Je me forme en continu, et m'intéresse de près à l'IA engineering, au Devops, à l'infra, et bien sûr à l'actu Tech !
 <br><br>
-Un projet ? Une opportunité ? Je serai ravi d'échanger avec vous 🚀 : <br><br>  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gdepuget) guillaumedepuget@gmail.com<br><br>
+Un projet ? Une opportunité ? Je serai ravi d'échanger avec vous 🚀 : <br><br>  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gdepuget) contact@guillaumedepuget.fr<br><br>
 
 
 ## 💻 Stack Technique
